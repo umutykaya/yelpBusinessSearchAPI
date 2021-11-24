@@ -1,0 +1,8 @@
+# Specify where to install requirements from
+--index-url https://pypi.python.org/simple/
+
+# Needed packages/versions
+pandas
+matplotlib
+numpy==1.15.4
+pycodestyle>=2.4.0
